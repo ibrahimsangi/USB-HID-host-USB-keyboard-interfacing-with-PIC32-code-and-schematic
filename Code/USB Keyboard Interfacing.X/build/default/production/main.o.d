@@ -1,0 +1,22 @@
+build/default/production/main.o:  \
+main.c  \
+HardwareProfile.h  \
+Common/uart2.h  \
+ usb_config.h  \
+USB/usb.h  \
+USB/../Common/Compiler.h  \
+USB/../usb_config.h  \
+ USB/usb_common.h  \
+USB/usb_ch9.h  \
+USB/usb_host.h  \
+USB/../USB/usb_hal.h  \
+ USB/../USB/../USB/usb_hal_pic32.h  \
+USB/../USB/../USB/../Common/Compiler.h  \
+ USB/../USB/../USB/../usb_config.h  \
+USB/usb_host_hid_parser.h  \
+LCD/LCD.h  \
+ LCD/Delay.h  \
+Common/GenericTypeDefs.h  \
+USB/usb_host_hid.h  \
+ USB/usb_host_hid_parser.h  \
+KeyBoardRoutine.h 
